@@ -37,3 +37,16 @@ Format:
 Verse Reference
 Question (with Greek word/phrase and transliteration)
 Answer — multi-paragraph, integrating Greek, theology, history, reception, and application
+
+chatgpt prompt for image generation
+"prompt":"A clean YouTube thumbnail background for a financial analysis video on Apollo Microsystems. The design should feature a dark navy background with candlestick stock chart and RSI indicator, along with yellow arrows highlighting the trend and RSI levels. Do not include any text.","size":"1280x720" "n":1,"referenced_image_ids":["file_00000000ed8861f4857635e1a1094d0b"]
+
+A YouTube thumbnail for a stock market analysis video on CG Power and Industrial Solutions Ltd. 
+Theme: breakout after double bottom formation and 200 EMA setup. 
+Design: Dark navy background with candlestick stock chart, 200 EMA line, and upward breakout arrows. 
+Highlight: Text on the right side in bold, modern Montserrat Extra Bold font – 
+“CG POWER BREAKOUT 🚀 
+READY FOR NEW HIGH?” 
+Style: Clean, professional, high contrast with bright yellow/green for bullish arrows. 
+Aspect ratio: 16:9, resolution 1280x720, file size under 2 MB.
+
